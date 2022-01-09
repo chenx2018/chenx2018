@@ -2,7 +2,7 @@
 
 I'm the founder and data scientist @zetatech 太乙大数据科技.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=chenx2018&show_icons=true&count_private=true)
+
 
 
 **Languages and Tools:**  
